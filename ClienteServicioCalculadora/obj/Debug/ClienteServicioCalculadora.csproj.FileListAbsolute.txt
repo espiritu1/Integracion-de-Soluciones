@@ -1,0 +1,7 @@
+C:\Users\tiran\source\repos\ClienteServicioCalculadora\bin\Debug\ClienteServicioCalculadora.exe.config
+C:\Users\tiran\source\repos\ClienteServicioCalculadora\bin\Debug\ClienteServicioCalculadora.exe
+C:\Users\tiran\source\repos\ClienteServicioCalculadora\bin\Debug\ClienteServicioCalculadora.pdb
+C:\Users\tiran\source\repos\ClienteServicioCalculadora\obj\Debug\ClienteServicioCalculadora.csproj.AssemblyReference.cache
+C:\Users\tiran\source\repos\ClienteServicioCalculadora\obj\Debug\ClienteServicioCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\tiran\source\repos\ClienteServicioCalculadora\obj\Debug\ClienteServicioCalculadora.exe
+C:\Users\tiran\source\repos\ClienteServicioCalculadora\obj\Debug\ClienteServicioCalculadora.pdb
