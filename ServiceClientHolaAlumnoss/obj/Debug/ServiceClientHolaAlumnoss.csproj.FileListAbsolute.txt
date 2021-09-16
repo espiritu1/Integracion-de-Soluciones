@@ -1,0 +1,7 @@
+C:\Users\tiran\source\repos\ServiceClientHolaAlumnoss\obj\Debug\ServiceClientHolaAlumnoss.csproj.AssemblyReference.cache
+C:\Users\tiran\source\repos\ServiceClientHolaAlumnoss\obj\Debug\ServiceClientHolaAlumnoss.csproj.CoreCompileInputs.cache
+C:\Users\tiran\source\repos\ServiceClientHolaAlumnoss\bin\Debug\ServiceClientHolaAlumnoss.exe.config
+C:\Users\tiran\source\repos\ServiceClientHolaAlumnoss\bin\Debug\ServiceClientHolaAlumnoss.exe
+C:\Users\tiran\source\repos\ServiceClientHolaAlumnoss\bin\Debug\ServiceClientHolaAlumnoss.pdb
+C:\Users\tiran\source\repos\ServiceClientHolaAlumnoss\obj\Debug\ServiceClientHolaAlumnoss.exe
+C:\Users\tiran\source\repos\ServiceClientHolaAlumnoss\obj\Debug\ServiceClientHolaAlumnoss.pdb
