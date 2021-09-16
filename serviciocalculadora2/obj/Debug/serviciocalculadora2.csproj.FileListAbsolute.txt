@@ -1,0 +1,7 @@
+C:\Users\tiran\source\repos\serviciocalculadora2\bin\serviciocalculadora2.dll.config
+C:\Users\tiran\source\repos\serviciocalculadora2\bin\serviciocalculadora2.dll
+C:\Users\tiran\source\repos\serviciocalculadora2\bin\serviciocalculadora2.pdb
+C:\Users\tiran\source\repos\serviciocalculadora2\obj\Debug\serviciocalculadora2.csproj.AssemblyReference.cache
+C:\Users\tiran\source\repos\serviciocalculadora2\obj\Debug\serviciocalculadora2.csproj.CoreCompileInputs.cache
+C:\Users\tiran\source\repos\serviciocalculadora2\obj\Debug\serviciocalculadora2.dll
+C:\Users\tiran\source\repos\serviciocalculadora2\obj\Debug\serviciocalculadora2.pdb
