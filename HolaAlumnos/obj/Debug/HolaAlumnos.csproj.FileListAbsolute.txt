@@ -1,0 +1,7 @@
+C:\Users\tiran\source\repos\HolaAlumnos\bin\HolaAlumnos.dll.config
+C:\Users\tiran\source\repos\HolaAlumnos\bin\HolaAlumnos.dll
+C:\Users\tiran\source\repos\HolaAlumnos\bin\HolaAlumnos.pdb
+C:\Users\tiran\source\repos\HolaAlumnos\obj\Debug\HolaAlumnos.csproj.AssemblyReference.cache
+C:\Users\tiran\source\repos\HolaAlumnos\obj\Debug\HolaAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\tiran\source\repos\HolaAlumnos\obj\Debug\HolaAlumnos.dll
+C:\Users\tiran\source\repos\HolaAlumnos\obj\Debug\HolaAlumnos.pdb
